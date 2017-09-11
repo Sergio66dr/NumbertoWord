@@ -1,0 +1,24 @@
+{
+  "name": "NumbertoWord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "dependencies": {
+    "number-to-words": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio66dr/NumbertoWord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergio66dr/NumbertoWord/issues"
+  },
+  "homepage": "https://github.com/Sergio66dr/NumbertoWord#readme"
+}
