@@ -1,4 +1,4 @@
-var converter = require('number-to-words');
+var converter = require('./node_modules/number-to-words');
 
 //Ordinal
 console.log(converter.toOrdinal(21));
